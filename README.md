@@ -1,4 +1,4 @@
-![Header](https://github.com/b1ue21/Pictures/blob/ae4d1ab472496071a55fa72109cb3f46e536cc9a/feynmanDiagrams.png)
+
 ## Hi, I'm Abigail McTaggart
 I am a prospect researcher under Dr. Bill Li (@billlee77). I aim to to get my doctorate in quantum computing. At MSU we have a hardware/Analysis oriented research group on the works.
 
@@ -26,7 +26,7 @@ Roman Dzhygadlo
 
 <img align="left" alt="GIF" src="https://github.com/billlee77/Pictures/blob/1ac5ba67108f6eb2627f692e2e28648ff6e29ca8/50yearsofQCD_FrankWilczek_Slides40to42.png" width="400" height="450" />
 
+Connect with Me:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abigail-mctaggart" 
+https://www.linkedin.com/in/abigail-mctaggart
+ 
