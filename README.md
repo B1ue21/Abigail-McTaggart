@@ -1,6 +1,6 @@
 
 ## Hi, I'm Abigail McTaggart
-I am a prospect researcher under Dr. Bill Li (@billlee77). I aim to to get my doctorate in quantum computing. At MSU we have a hardware/Analysis oriented research group on the works.
+I am a prospect researcher under Dr. Bill Li (@billlee77). I aim to  get my doctorate in quantum computing. At MSU we have a hardware/Analysis oriented research group on the works.
 
  
 
