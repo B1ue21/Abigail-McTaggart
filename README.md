@@ -15,8 +15,6 @@ Roman Dzhygadlo
 
 
 
-- 🔭 I’m currently working on **MEP & Hadronic Physics**
-
 - 📫 How to reach me **abigailmctaggart21@gmail.com**
 
 - 👐 I’m looking to collaborate 
